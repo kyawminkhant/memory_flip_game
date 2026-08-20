@@ -22,6 +22,9 @@ iconFolder=os.path.join(baseFolder, "icon")+os.sep
 imageFolder=os.path.join(baseFolder, "images")+os.sep
 soundFolder=os.path.join(baseFolder, "sounds")+os.sep
 
+# The leaderboard is created locally for each player and is not committed.
+os.makedirs(leaderboardFolder, exist_ok=True)
+
 
 # -----------------------------------------------------------------------------
 # Root Window Setup
