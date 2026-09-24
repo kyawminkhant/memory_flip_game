@@ -3,6 +3,8 @@
 `logo.ico` is the Windows application icon loaded by `Memory Flip Game.py`.
 It contains 16, 24, 32, 48, 64, 128, and 256 pixel versions.
 `logo.png` is the original generated artwork, retained for future exports.
+The main README displays this PNG. `images/Logo.png` contains the same artwork
+for compatibility with existing links.
 
 The custom matching-card artwork was created with OpenAI's built-in image
 generation tool. No online images or reference images were used.

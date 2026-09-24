@@ -2,7 +2,7 @@
 
 A desktop memory-matching game built with Python and Tkinter. Enter a username, flip cards to find all eight emoji pairs, and try to earn a place on the local top-10 leaderboard.
 
-![Memory Flip Game logo](images/Logo.png)
+![Memory Flip Game logo](icon/logo.png)
 
 ## Features
 
